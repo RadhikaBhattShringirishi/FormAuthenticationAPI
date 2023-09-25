@@ -1,0 +1,2 @@
+# FormAuthenticationAPI
+FormAuthenticationAPI spring internally uses formlogin
